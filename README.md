@@ -1,6 +1,6 @@
 # express-mongo-jwt-auth
 
-simple little express server with jwt authentication.
+simple express starter with jwt authentication.
 uses mongodb and passport-jwt
 
 ## usage
